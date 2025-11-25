@@ -7,4 +7,5 @@
 **This script is designed to conveniently view dates until holidays and events**
 
 
-![logo](images/date.png)
+![logo](project/images/date.png)
+
